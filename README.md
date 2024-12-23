@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Xavier NIE 👋
 
-<!--
-**XavierNie715/XavierNie715** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=XavierNie715)
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍🎓 I'm currently a Ph.D. student at Peking University, majoring in fluid mechanics.
+- 🏫 State Key Laboratory for Turbulence & Complex Systems, Department of Mechanics, College of Engineering
+
+## 🛠️ Technologies & Tools
+
+- **Languages:** Python, Matlab
+
+## 🌱 Current Interests
+
+- I'm interested in post-process algorithms in experiments of fluid mechanics, including PIV, SIV, PINN, etc.
+
+## 📫 How to Reach Me
+
+- **Email:** Xiangyu.nie@stu.pku.edu.cn
+- **ResearchGate:** [Xiangyu Nie](https://www.researchgate.net/profile/Xiangyu_Nie2)
