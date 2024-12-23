@@ -13,7 +13,7 @@ Welcome to my GitHub profile!
 
 ## 🌱 Current Interests
 
-- I'm interested in post-process algorithms in experiments of fluid mechanics, including PIV, SIV, PINN, etc.
+- I'm interested in post-process algorithms in experiments of fluid mechanics, including PIV, SIV, PINN, Data Assimilation, etc.
 
 ## 📫 How to Reach Me
 
